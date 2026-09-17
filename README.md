@@ -70,7 +70,14 @@ Manhattan and Brooklyn are the most active Airbnb markets, led by neighbourhoods
 `Power BI` · `DAX` · `Data Modeling` · `Interactive Visualization`
 
 ## 📸 Dashboard Preview
-*(Add dashboard screenshots here — e.g. `![Overview](images/overview.png)`)*
+<img width="1352" height="782" alt="image" src="https://github.com/user-attachments/assets/7a03b53e-5ed5-4d9b-b8cb-776af5dc2907" />
+
+<img width="1351" height="780" alt="image" src="https://github.com/user-attachments/assets/254648a3-2a77-4678-9e72-da04f9a3bbe6" />
+
+<img width="1357" height="782" alt="image" src="https://github.com/user-attachments/assets/43e08f48-b2a5-4aed-be76-48d4c7033c27" />
+
+
+
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
